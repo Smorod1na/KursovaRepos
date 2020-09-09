@@ -1,0 +1,336 @@
+C:\Users\dev\source\repos\MyStore\MyStore\bin\MyStore.dll.config
+C:\Users\dev\source\repos\MyStore\MyStore\bin\MyStore.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\MyStore.pdb
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\csc.exe
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\csc.exe.config
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\csc.rsp
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\csi.exe
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\csi.exe.config
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\csi.rsp
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.AppContext.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.Console.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.Net.Http.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\vbc.exe
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\vbc.exe.config
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\vbc.rsp
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\dev\source\repos\MyStore\MyStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Antlr3.Runtime.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\EntityFramework.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\EntityFramework.SqlServer.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.Owin.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.Owin.Security.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Newtonsoft.Json.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Owin.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\System.Web.Helpers.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\System.Web.Mvc.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\System.Web.Optimization.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\System.Web.Razor.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\System.Web.WebPages.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\WebGrease.dll
+C:\Users\dev\source\repos\MyStore\MyStore\bin\System.Web.Helpers.xml
+C:\Users\dev\source\repos\MyStore\MyStore\bin\System.Web.Mvc.xml
+C:\Users\dev\source\repos\MyStore\MyStore\bin\System.Web.Optimization.xml
+C:\Users\dev\source\repos\MyStore\MyStore\bin\System.Web.Razor.xml
+C:\Users\dev\source\repos\MyStore\MyStore\bin\System.Web.WebPages.xml
+C:\Users\dev\source\repos\MyStore\MyStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dev\source\repos\MyStore\MyStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Newtonsoft.Json.xml
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Antlr3.Runtime.pdb
+C:\Users\dev\source\repos\MyStore\MyStore\bin\EntityFramework.xml
+C:\Users\dev\source\repos\MyStore\MyStore\bin\EntityFramework.SqlServer.xml
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.Owin.xml
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.Owin.Security.xml
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dev\source\repos\MyStore\MyStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dev\source\repos\MyStore\MyStore\obj\Debug\MyStore.csprojAssemblyReference.cache
+C:\Users\dev\source\repos\MyStore\MyStore\obj\Debug\MyStore.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\MyStore\MyStore\obj\Debug\MyStore.csproj.CopyComplete
+C:\Users\dev\source\repos\MyStore\MyStore\obj\Debug\MyStore.dll
+C:\Users\dev\source\repos\MyStore\MyStore\obj\Debug\MyStore.pdb
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\MyStore.dll.config
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\MyStore.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\MyStore.pdb
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\csc.exe
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\csc.exe.config
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\csc.rsp
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\csi.exe
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\csi.exe.config
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\csi.rsp
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.AppContext.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.Console.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.Net.Http.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\vbc.exe
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\vbc.exe.config
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\vbc.rsp
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Antlr3.Runtime.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\EntityFramework.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\EntityFramework.SqlServer.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.Owin.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Newtonsoft.Json.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Owin.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\System.Web.Helpers.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\System.Web.Mvc.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\System.Web.Optimization.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\System.Web.Razor.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\System.Web.WebPages.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\WebGrease.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\System.Web.Helpers.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\System.Web.Mvc.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\System.Web.Optimization.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\System.Web.Razor.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\System.Web.WebPages.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Newtonsoft.Json.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Antlr3.Runtime.pdb
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\EntityFramework.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\EntityFramework.SqlServer.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.Owin.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\obj\Debug\MyStore.csprojAssemblyReference.cache
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\obj\Debug\MyStore.csproj.CoreCompileInputs.cache
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\obj\Debug\MyStore.csproj.CopyComplete
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\obj\Debug\MyStore.dll
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\obj\Debug\MyStore.pdb
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\obj\Debug\MyStore.Migrations.FirstMigro.resources
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\obj\Debug\MyStore.csproj.GenerateResource.cache
+C:\Users\dev\Downloads\New folder\MyStore\MyStore\obj\Debug\MyStore.Migrations.SecondMigrO.resources
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\MyStore.dll.config
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\MyStore.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\MyStore.pdb
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\csc.exe
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\csc.exe.config
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\csc.rsp
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\csi.exe
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\csi.exe.config
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\csi.rsp
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.AppContext.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.Console.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.Net.Http.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\vbc.exe
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\vbc.exe.config
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\vbc.rsp
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Antlr3.Runtime.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\EntityFramework.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.Owin.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Newtonsoft.Json.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Owin.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\System.Web.Helpers.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\System.Web.Mvc.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\System.Web.Optimization.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\System.Web.Razor.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\System.Web.WebPages.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\WebGrease.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\EntityFramework.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\System.Web.Helpers.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\System.Web.Mvc.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\System.Web.Optimization.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\System.Web.Razor.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\System.Web.WebPages.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Newtonsoft.Json.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Antlr3.Runtime.pdb
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.Owin.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\obj\Debug\MyStore.Migrations.FirstMigro.resources
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\obj\Debug\MyStore.Migrations.SecondMigrO.resources
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\obj\Debug\MyStore.Migrations.ThirdMigro.resources
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\obj\Debug\MyStore.Migrations.FourMigRo.resources
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\obj\Debug\MyStore.Migrations.FiveMiGro.resources
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\obj\Debug\MyStore.Migrations.SixMigro.resources
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\obj\Debug\MyStore.Migrations.SevenMigrO.resources
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\obj\Debug\MyStore.Migrations.AditionalMigro.resources
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\obj\Debug\MyStore.csproj.GenerateResource.cache
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\obj\Debug\MyStore.csproj.CoreCompileInputs.cache
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\obj\Debug\MyStore.csproj.CopyComplete
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\obj\Debug\MyStore.dll
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\obj\Debug\MyStore.pdb
+C:\Users\Саня\Downloads\StepbYsteP-master\StepbYsteP-master\New folder\MyStore\MyStore\obj\Debug\MyStore.csprojAssemblyReference.cache

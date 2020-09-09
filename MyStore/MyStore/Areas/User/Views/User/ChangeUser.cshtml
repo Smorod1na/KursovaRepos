@@ -1,0 +1,53 @@
+﻿@model MyStore.Models.UserAditionalInfo
+
+@{
+    ViewBag.Title = "ChangeUser";
+    Layout = "~/Areas/User/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ChangeUser</h2>
+
+@using (Html.BeginForm("ChangeUser", "User", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    
+<div class="form-horizontal">
+    <h4>UserAditionalInfo</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.Id)
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.FullName, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.FullName, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.FullName, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    @*@Html.Partial("Parial/_PartialPage1",Model.ApplicationUser)*@
+    <div class="form-group">
+        @Html.LabelFor(model => model.ApplicationUser.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.ApplicationUser.Email, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.ApplicationUser.Email, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2">Image</label>
+        <div class="col-md-10">
+            <input type="file" name="imageFile" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Save" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

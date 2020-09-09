@@ -1,0 +1,10 @@
+﻿@model MyStore.Models.UserAditionalInfo
+@{
+    ViewBag.Title = "Home";
+    Layout = "~/Areas/User/Views/Shared/_Layout.cshtml";
+}
+    <div class="container">
+        <h2 class="text-center">@Model.FullName</h2>
+        <img src="../../../../Images/Users/@Model.Image"/>
+        <h4>@Model.ApplicationUser.Email</h4>
+    </div>

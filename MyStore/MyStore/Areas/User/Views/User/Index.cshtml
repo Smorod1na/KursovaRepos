@@ -1,0 +1,39 @@
+﻿@model MyStore.Models.ApplicationUser
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index User</h2>
+<a>@Model.UserName</a>
+@using (Html.BeginForm())
+{
+    @Html.ActionLink("Change", "ChangeUser", new { @class = "btn btn-primary" })
+}
+@foreach (var item in ViewBag.News)
+{
+    <article class="">
+        <div class="card ManagerNewsPosition">
+            <div class="row ">
+                <div class="col-md-3">
+                    <img src="../../../../Images/News/@item.Pfoto" width="135" class="card-img " alt="...">
+                </div>
+                <div class="col-md-6 my-flexAlign">
+                    <div class="card-body">
+                        <h3 class="card-title text-red">@item.Name</h3>
+                        @if (item.NewsCategory != null)
+                        {<p class="card-text">@item.NewsCategory.Name</p>
+                    }
+                        <p class="card-text">@item.PostDate.ToLongDateString()</p>
+
+                    </div>
+                </div>
+                <div class="col-md-3 my-flexAlign">
+
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-primary MyStyleForBttn" })
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class = "btn btn-primary MyStyleForBttn" })
+                </div>
+            </div>
+            <a href="~/Areas/Manager/Views/Manager/Index.cshtml"></a>
+        </div>
+    </article>
+}

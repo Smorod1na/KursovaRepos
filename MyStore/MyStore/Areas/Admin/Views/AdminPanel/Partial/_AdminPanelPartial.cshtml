@@ -1,0 +1,22 @@
+﻿@using (Html.BeginForm())
+{
+    <div class="jumbotron">
+        <h1>Admin Panel</h1>
+        <p class="lead">Some admin inFo</p>
+        <div class="container">
+            @Html.ActionLink("Edit role for users", "EditUserRole", "AdminPanel", new
+       {
+           @class = "btn btn-primary MyStyleForBttn"
+            })
+
+            @Html.ActionLink("Create new role", "CreateRole", "AdminPanel", new
+       {
+           @class = "btn btn-primary MyStyleForBttn"
+            })
+            @Html.ActionLink("Create new category", "CreateCategory", "AdminPanel", new
+      {
+          @class = "btn btn-primary MyStyleForBttn2"
+            })
+        </div>
+    </div>
+}

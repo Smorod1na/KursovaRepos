@@ -1,0 +1,54 @@
+﻿@*@model MyStore.Models.UsersAndRoleViewModel*@
+@{
+    ViewBag.Title = "EditUserRole";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+
+    <div class="container">
+        @foreach (var item in Model.allUser)
+        {
+            <div class="row">
+
+                @using (Html.BeginForm("EditUserRole", "AdminPanel", new { userName = item.UserName }, FormMethod.Post))
+                {
+                    <div class="col-md-6">
+                        <h2>User Email:</h2>
+                        <p>
+                            @item.UserName
+                        </p>
+                    </div>
+
+                    <div class="col-md-6 my-mr-top">
+                        <div>
+                            <h2>User Role:</h2>
+                            <select id="role" name="role" class="MySelectionClass">
+                                @foreach (var anotherItem in Model.allRole)
+                                {
+                                    
+                                    @*if (item.Role.Equals(anotherItem))
+                                    {
+                                        <option selected>@anotherItem.Name</option>
+
+                                    }
+                                    else
+                                    {*@
+                                        <option>@anotherItem.Name</option>
+                                   
+                                }
+                            </select>
+                            <div class="form-group">
+                                <div class="col-md-offset-2 col-md-10">
+                                    <input type="submit" value="Save" class="btn btn-default" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+
+        }
+    </div>
+
+

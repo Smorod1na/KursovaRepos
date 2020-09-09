@@ -1,0 +1,46 @@
+﻿body {
+    margin:0;
+    padding:0;
+}
+.my-mr-top{
+
+}
+
+.MyStyleForBttn{
+    margin:12px;
+    align-items:center;
+    width:100px;
+padding:10px;
+}
+.MyStyleForBttn2 {
+    margin: 12px;
+    align-items: center;
+    width: 200px;
+    padding: 10px;
+}
+.MySelectionClass{
+    width:100px;
+    height:40px;
+    font-weight:bold;
+    letter-spacing:1.2px;
+}
+.ManagerNewsPosition {
+    padding: 7px;
+    margin: 20px;
+    border: 1px solid black;
+    box-shadow: rgb(128, 128, 128) 11px 11px;
+}
+.TestFloatLeft{
+    float:left;
+}
+.my-flexAlign{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+.li-margin li{
+    margin:15px;
+}
+.modal-paddings{
+    padding-left:50px;
+}

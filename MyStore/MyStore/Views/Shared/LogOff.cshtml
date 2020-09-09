@@ -1,0 +1,16 @@
+﻿@using Microsoft.AspNet.Identity
+
+
+@using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right",area = "" }))
+{
+    @Html.AntiForgeryToken()
+
+    <ul class="nav navbar-nav navbar-right">
+        <li>
+            @Html.ActionLink("Hello " + User.Identity.GetUserName() + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+        </li>
+        <li>
+            <input type="submit" value="LogOff" class="btn btn-outline-success my-2 my-sm-0" />
+        </li>
+    </ul>
+}
