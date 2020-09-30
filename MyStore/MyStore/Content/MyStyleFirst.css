@@ -18,6 +18,12 @@ padding:10px;
     width: 200px;
     padding: 10px;
 }
+.MyStyleForBttn3 {
+    margin: 10px;
+    align-items: center;
+    width: 140px;
+    padding: 10px;
+}
 .MySelectionClass{
     width:100px;
     height:40px;
@@ -43,4 +49,11 @@ padding:10px;
 }
 .modal-paddings{
     padding-left:50px;
+}
+.divPadding {
+    padding-left: 25px;
+}
+.myDis {
+    display: flex;
+    flex-direction: row;
 }

@@ -3,37 +3,215 @@
     ViewBag.Title = "Index";
 }
 
-<h2>Index User</h2>
-<a>@Model.UserName</a>
 @using (Html.BeginForm())
 {
-    @Html.ActionLink("Change", "ChangeUser", new { @class = "btn btn-primary" })
-}
-@foreach (var item in ViewBag.News)
-{
+
     <article class="">
-        <div class="card ManagerNewsPosition">
-            <div class="row ">
-                <div class="col-md-3">
-                    <img src="../../../../Images/News/@item.Pfoto" width="135" class="card-img " alt="...">
-                </div>
-                <div class="col-md-6 my-flexAlign">
-                    <div class="card-body">
-                        <h3 class="card-title text-red">@item.Name</h3>
+        @foreach (var item in ViewBag.News)
+        {
+
+
+
+            <div class="col-md-4">
+                <!-- Widget: user widget style 1 -->
+                <div class="card card-widget widget-user">
+                    <!-- Add the bg color to the header using any of the bg-* classes -->
+                    <div class="widget-user-header text-white" style="background: url('../dist/img/photo1.png') center center;">
+                        <h3 class="widget-user-username text-right">@item.Name</h3>
                         @if (item.NewsCategory != null)
-                        {<p class="card-text">@item.NewsCategory.Name</p>
-                    }
-                        <p class="card-text">@item.PostDate.ToLongDateString()</p>
+                        {                   
+                         <h5 class="widget-user-desc text-right">@item.NewsCategory.Name</h5> }
+                    </div>
+                    <div class="widget-user-image">
+                        <img class="img-circle" src="../../../../Images/News/@item.Pfoto" alt="User Avatar">
+                    </div>
+                    <div class="card-footer">
+                        <div class="row">
+                            <div class="col-sm-4 border-right">
+                                <div class="description-block">
+                                    <h5 class="description-header">@item.</h5>
+                                    <span class="description-text">Comments</span>
+                                </div>
+                                <!-- /.description-block -->
+                            </div>
+                            <!-- /.col -->
+                            <div class="col-sm-4 border-right">
+                                <div class="description-block">
+                                    <h5 class="description-header">13,000</h5>
+                                    <span class="description-text">FOLLOWERS</span>
+                                </div>
+                                <!-- /.description-block -->
+                            </div>
+                            <!-- /.col -->
+                            <div class="col-sm-4">
+                                <div class="description-block">
+                                    <h5 class="description-header">@item.PostDate.ToLongDateString()</h5>
+                                    <span class="description-text">Date</span>
+                                </div>
+                                <!-- /.description-block -->
+                            </div>
+                            <!-- /.col -->
+                        </div>
+                        <!-- /.row -->
+                    </div>
+                </div>
+                <!-- /.widget-user -->
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="card ManagerNewsPosition">
+                <div class="row ">
+                    <div class="col-md-3 ">
+
+                        <div class="p-3">
+                            <img src="../../../../Images/News/@item.Pfoto" width="225">
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-6 my-flexAlign">
+                        <div class="card-body p-2">
+                            <h3 class="card-title text-red">@item.Name</h3>
+                            @if (item.NewsCategory != null)
+                            {<p class="card-text">@item.NewsCategory.Name</p>
+                        }
+                            <p class="card-text">@item.PostDate.ToLongDateString()</p>
+
+                        </div>
+                    </div>
+                    <div class="col-md-3 text-center">
+
+                        <textarea id="" rows="10" cols="21"></textarea>
+
+
+                        @Html.ActionLink("Leave comment", "Comment", new { id = item.Id }, new { @class = "btn btn-primary MyStyleForBttn3" })
 
                     </div>
                 </div>
-                <div class="col-md-3 my-flexAlign">
-
-                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-primary MyStyleForBttn" })
-                    @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class = "btn btn-primary MyStyleForBttn" })
-                </div>
+                <a href="~/Areas/Manager/Views/Manager/Index.cshtml"></a>
             </div>
-            <a href="~/Areas/Manager/Views/Manager/Index.cshtml"></a>
-        </div>
+        }
     </article>
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="wrapper">
+    <div class="content-wrapper" style="min-height: 1074px;">
+        <!-- Content Header (Page header) -->
+        <section class="content-header">
+            <div class="container-fluid">
+                <div class="row mb-2">
+                    <div class="col-sm-6">
+                        <h1>Gallery</h1>
+                    </div>
+                    <div class="col-sm-6">
+                        <ol class="breadcrumb float-sm-right">
+                            <li class="breadcrumb-item"><a href="#">Home</a></li>
+                            <li class="breadcrumb-item active">Gallery</li>
+                        </ol>
+                    </div>
+                </div>
+            </div><!-- /.container-fluid -->
+        </section>
+
+        <!-- Main content -->
+        <section class="content">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="card card-primary">
+                            <div class="card-header">
+                                <h2 class="card-title text-center">
+                                    Freash news for everyone
+                                </h2>
+                            </div>
+                            <div class="card-body">
+                                <div>
+                                    <div class="btn-group w-100 mb-2">
+                                        <a class="btn btn-info active" href="javascript:void(0)" data-filter="all"> All items </a>
+                                        <a class="btn btn-info" href="javascript:void(0)" data-filter="1"> Category 1 (WHITE) </a>
+                                        <a class="btn btn-info" href="javascript:void(0)" data-filter="2"> Category 2 (BLACK) </a>
+                                        <a class="btn btn-info" href="javascript:void(0)" data-filter="3"> Category 3 (COLORED) </a>
+                                        <a class="btn btn-info" href="javascript:void(0)" data-filter="4"> Category 4 (COLORED, BLACK) </a>
+                                    </div>
+                                    <div class="mb-2">
+                                        <a class="btn btn-secondary" href="javascript:void(0)" data-shuffle=""> Shuffle items </a>
+                                        <div class="float-right">
+                                            <select class="custom-select" style="width: auto;" data-sortorder="">
+                                                <option value="index"> Sort by Position </option>
+                                                <option value="sortData"> Sort by Custom Data </option>
+                                            </select>
+                                            <div class="btn-group">
+                                                <a class="btn btn-default" href="javascript:void(0)" data-sortasc=""> Ascending </a>
+                                                <a class="btn btn-default" href="javascript:void(0)" data-sortdesc=""> Descending </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div class="filter-container p-0 row" style="padding: 3px; position: relative; width: 100%; display: flex; flex-wrap: wrap; height: 582px;">
+
+                                        @*<div class="filtr-item col-sm-2" data-category="1" data-sort="white sample" style="opacity: 1; transform: scale(1) translate3d(0px, 0px, 0px); backface-visibility: hidden; perspective: 1000px; transform-style: preserve-3d; position: absolute; width: 196.4px; transition: all 0.5s ease-out 0ms, width 1ms ease 0s;">
+            <a href="https://via.placeholder.com/1200/FFFFFF.png?text=1" data-toggle="lightbox" data-title="sample 1 - white">
+                <img src="https://via.placeholder.com/300/FFFFFF?text=1" class="img-fluid mb-2" alt="white sample">
+            </a>
+        </div>*@
+
+
+
+
+                                       
+
+
+
+
+
+
+
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                   
+                      
+                </div>
+            </div><!-- /.container-fluid -->
+        </section>
+        <!-- /.content -->
+    </div>
+</div>

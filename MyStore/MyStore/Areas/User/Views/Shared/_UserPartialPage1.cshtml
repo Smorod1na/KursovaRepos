@@ -1,0 +1,27 @@
+﻿
+@if (Request.IsAuthenticated)
+{
+
+    using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+    <nav class="nav navbar-nav navbar-right">
+
+
+        <div class="form-inline my-2 my-lg-0">
+            @Html.ActionLink("Edit", "ChangeUser", "User", new { @class = "btn btn-primary mr-2" })
+
+            @Html.Partial("LogOff")
+            </div>
+
+    </nav>
+    }
+}
+else
+{
+    <ul class="nav navbar-nav d-flex flex-row">
+        <li>@Html.ActionLink("Register", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+        <li>@Html.ActionLink("Log in", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+    </ul>
+}

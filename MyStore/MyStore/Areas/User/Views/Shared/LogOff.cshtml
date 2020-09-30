@@ -1,0 +1,14 @@
+﻿@using Microsoft.AspNet.Identity
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <ul class="nav navbar-nav navbar-right">
+        <li>
+             @Html.ActionLink("LogOff", "LogOff", "Index", new { area = "", controller = "Home", @class = "btn btn-primary" })
+        </li>
+
+    </ul>
+}

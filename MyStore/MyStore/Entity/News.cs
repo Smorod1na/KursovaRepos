@@ -11,7 +11,7 @@ namespace MyStore.Entity
     public class News
     {
         [Key]
-        public int Id { get; set; }
+        public string Id { get; set; }
         public string ManagerId { get; set; }
         [Required(ErrorMessage = "No pfoto")]
         public string  Pfoto { get; set; }
@@ -22,7 +22,15 @@ namespace MyStore.Entity
 
         public string Description { get; set; }
 
-        public string Categorie { get; set; }
+        //[ForeignKey("NewsCategory")]
+        //public string CategoriesId { get; set; }
+        public string Categories { get; set; }
         public virtual Category NewsCategory { get; set; }
+
+        public virtual ICollection<Comments> NewsComments { get; set; }
+        public News()
+        {
+
+        }
     }
 }

@@ -2,7 +2,7 @@
 @using Microsoft.AspNet.Identity
 @if (Request.IsAuthenticated)
 {
-    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right",area="" }))
+    using (Html.BeginForm())
     {
         @Html.AntiForgeryToken()
 
@@ -11,6 +11,8 @@
                 @Html.ActionLink("Hello " + User.Identity.GetUserName() + "!", "Index", new {area="",controller="Home" })
             </li>
             <li>
+                @Html.ActionLink("LogOff", "LogOff", new { area = "", controller = "Account",@class="btn btn-primary" })
+
                 <input type="submit" value="LogOff" class="btn btn-outline-success my-2 my-sm-0" />
             </li>
         </ul>

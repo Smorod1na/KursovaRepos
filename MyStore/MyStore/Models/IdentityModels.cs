@@ -32,7 +32,7 @@ namespace MyStore.Models
         public DbSet<Category> MyCategorys { get; set; }
 
         public DbSet<News> MyNews { get; set; }
-        public DbSet<Role> MyRoles { get; set; }
+        public DbSet<Comments> MyComments { get; set; }
 
         public static ApplicationDbContext Create()
         {

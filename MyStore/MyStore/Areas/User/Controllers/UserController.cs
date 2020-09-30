@@ -24,12 +24,16 @@ namespace MyStore.Areas.User.Controllers
         // GET: User/User
         public ActionResult Index()
         {
+            getCategories();
             var userId = User.Identity.GetUserId();
             var test = _context.Users.Find(userId);
             ViewBag.News = _context.MyNews.ToArray();
             return View(test);
         }
-
+        public void getCategories()
+        {
+            ViewBag.Categories = _context.MyCategorys.ToArray();
+        }
         [HttpGet]
         public ActionResult ChangeUser()
         {

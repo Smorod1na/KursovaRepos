@@ -17,6 +17,7 @@ namespace MyStore.Areas.Manager.Controllers
     public class ManagerController : Controller
     {
         private ApplicationDbContext _context;
+
         public ManagerController()
         {
             _context = new ApplicationDbContext();
@@ -24,6 +25,7 @@ namespace MyStore.Areas.Manager.Controllers
         // GET: Manager/Manager
         public ActionResult Index()
         {
+            
             string id =ConfigurationManager.AppSettings["ManagerId"].ToString();
 
             var managerNews = _context.MyNews.Where(x => x.ManagerId == id).ToList();
@@ -43,10 +45,13 @@ namespace MyStore.Areas.Manager.Controllers
         [HttpPost]
         public ActionResult CreateNews(News news, HttpPostedFileBase imageFile)
         {
+            news.Id = Guid.NewGuid().ToString();
             news.Pfoto = CreateBitmap(imageFile);
             news.ManagerId = ConfigurationManager.AppSettings["ManagerId"].ToString();
             news.PostDate = DateTime.Now;
-            news.NewsCategory = _context.MyCategorys.Where(x => x.Name == news.Categorie).ToArray()[0];
+            news.NewsCategory = _context.MyCategorys.FirstOrDefault(x => x.Name =="History");
+            news.Categories = news.NewsCategory.Name;
+            news.NewsComments = new List<Comments>();
             _context.MyNews.Add(news);
             _context.SaveChanges();
             return RedirectToAction("Index");
@@ -73,5 +78,6 @@ namespace MyStore.Areas.Manager.Controllers
             }
             return fileName;
         }
+       
     }
 }

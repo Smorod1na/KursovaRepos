@@ -25,12 +25,14 @@ namespace MyStore
 
 
             bundles.Add(new StyleBundle("~/Content/MyCss").Include(
-                     "~/Content/MyStyleFirst.css"));
+                     "~/Content/MyStyleFirst.css",
+                     "~/Content/adminlte.css"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css"));
 
-
+            bundles.Add(new ScriptBundle("~/bundles/adminlte").Include(
+                       "~/Scripts/adminlte.js"));
 
         }
     }

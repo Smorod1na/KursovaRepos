@@ -30,6 +30,7 @@ namespace MyStore.Areas.Admin.Controllers
         [HttpPost]
         public ActionResult CreateCategory(Category category)
         {
+            category.Id = Guid.NewGuid().ToString();
             _context.MyCategorys.Add(category);
             _context.SaveChanges();
 

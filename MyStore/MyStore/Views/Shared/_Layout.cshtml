@@ -19,10 +19,11 @@
 
                 @Html.ActionLink("Home controller", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
             </div>
+
             @if (Request.IsAuthenticated)
             {
                 @Html.Partial("LogOff")
-               
+
             }
             else
             {
@@ -40,7 +41,7 @@
 
         </nav>
     </div>
-   
+
     <div class="container body-content">
         @RenderBody()
 
@@ -48,6 +49,8 @@
     @*<footer>
             <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
         </footer>*@
+    @Scripts.Render("~/bundles/adminlte")
+
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
     @RenderSection("scripts", required: false)

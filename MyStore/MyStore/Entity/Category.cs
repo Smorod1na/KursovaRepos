@@ -11,7 +11,7 @@ namespace MyStore.Entity
     public class Category
     {
         [Key]
-        public int Id { get; set; }
+        public string Id { get; set; }
         [Required(ErrorMessage ="Not text")]
         public string Name { get; set; }
         public  ICollection<News> CategoryNews { get; set; }
